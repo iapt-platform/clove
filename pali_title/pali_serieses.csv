@@ -1,282 +1,282 @@
 id,book,paragraph,title,abbr-my,abbr-pts
-1,1,2,namakkārapāḷi,Namakkārapāḷi,Nam
-2,1,159,namakkāraṭīkā,Namakkāraṭīkā,NamT
-3,2,2,mahāpaṇāmapāṭha,Mahāpaṇāmapāṭha,Mpp
-4,2,428,tigumbacetiya thomanā,Tigumbacetiya thomanā,Tgc
-5,2,479,vāsamālinīkya,Vāsamālinīkya,Vāsam
-6,3,2,lakkhaṇāto,Lakkhaṇāto,Lakkh
-7,4,2,suttavandanā,Suttavandanā,Sutv
-8,5,2,jinālaṅkāra,Jinālaṅkāra,Jināl
-9,6,2,kamalāñjali,Kamalāñjali,Kamal
-10,7,2,pajjamadhu,Pajjamadhu,Pjm
-11,8,2,buddhaguṇagāthāvalī,Buddhaguṇagāthāvalī,Bgg
-12,9,2,abhidhānappadīpikāṭīkā,Abhidhānappadīpikāṭīkā,AbhpT
-13,10,2,subodhālaṅkāro,Subodhālaṅkāro,Subodh
-14,11,2,subodhālaṅkāraṭīkā,Subodhālaṅkāraṭīkā,SubodhT
-15,12,2,bālāvatāra,Bālāvatāra,Bālāv
-16,13,2,moggallānasuttapāṭho,Moggallānasuttapāṭho,Mogg
-17,13,1105,moggallānabyākaraṇaṃ,Moggallānabyākaraṇaṃ,Mogg
-18,14,2,kaccāyanabyākaraṇaṃ,Kaccāyanabyākaraṇaṃ,Kacc
-19,14,715,mahākaccāyanasaddāpāṭha,Mahākaccāyanasaddāpāṭha,Kacc
-20,15,2,saddanītippakaraṇaṃ (padamālā),Saddanītippakaraṇaṃ (padamālā),Sadd
-21,16,2,saddanītippakaraṇaṃ (dhātumālā),Saddanītippakaraṇaṃ (dhātumālā),Sadd
-22,17,2,padarūpasiddhi,Padarūpasiddhi,Rūp
-23,18,2,moggallāna-pañcikā-ṭīkā,Moggallāna-pañcikā-ṭīkā,MoggPT
-24,19,2,payogasiddhipāḷi,Payogasiddhipāḷi,Payog
-25,20,2,vuttodayaṃ,Vuttodayaṃ,Vutt
-26,21,2,abhidhānappadīpikā,Abhidhānappadīpikā,Abhp
-27,22,2,niruttidīpanīpāṭha,Niruttidīpanīpāṭha,Nirutt
-28,23,2,paramatthadīpanī,Paramatthadīpanī,Pmd
-29,24,2,anudīpanīpāṭha,Anudīpanīpāṭha,Anudīp
-30,25,2,paṭṭhānuddesa dīpanīpāṭha,Paṭṭhānuddesa dīpanīpāṭha,Paṭṭhud
-31,26,2,caturārakkhadīpanī,Caturārakkhadīpanī,Catur
-32,27,2,kavidappaṇanīti,Kavidappaṇanīti,Kavid
-33,28,2,nītimañjarī,Nītimañjarī,Nītim
-34,29,2,dhammanīti,Dhammanīti,Dhn
-35,30,2,mahārahanīti,Mahārahanīti,Mhn
-36,31,2,lokanīti,Lokanīti,Ln
-37,32,2,suttantanīti,Suttantanīti,Sutn
-38,32,134,vasalasutta,Vasalasutta,Sutn
-39,33,2,sūrassatīnīti,Sūrassatīnīti,Sūrn
-40,34,2,cāṇakyanītipāḷi,Cāṇakyanītipāḷi,Cāṇ
-41,35,2,naradakkhadīpanī,Naradakkhadīpanī,Narad
-42,36,2,rasavāhinī,Rasavāhinī,Ras
-43,37,2,sīmavisodhanī,Sīmavisodhanī,Sīmav
-44,38,2,vessantarāgīti,Vessantarāgīti,Vessag
-45,39,3,(saṅgayana-puccha vissajjanā) dīghanikāye,(saṅgayana-puccha vissajjanā) Dīghanikāye,SgyDn
-46,40,3,(saṅgayana-puccha vissajjanā) majjhimanikāya,(saṅgayana-puccha vissajjanā) Majjhimanikāya,SgyMn
-47,41,3,(saṅgayana-puccha vissajjanā) saṃyuttanikāye,(saṅgayana-puccha vissajjanā) Saṃyuttanikāye,SgySn
-48,42,3,(saṅgayana-puccha vissajjanā) aṅguttaranikāye,(saṅgayana-puccha vissajjanā) Aṅguttaranikāye,SgyAn
-49,43,2,(saṅgayana-puccha vissajjanā) vinayapiṭaka,(saṅgayana-puccha vissajjanā) Vinayapiṭaka,SgyVin
-50,44,2,(saṅgayana-puccha vissajjanā) abhidhammapiṭaka,(saṅgayana-puccha vissajjanā) Abhidhammapiṭaka,SgyAbh
-51,45,2,(saṅgayana-puccha vissajjanā) aṭṭhakathā,(saṅgayana-puccha vissajjanā) Aṭṭhakathā,SgyAṭṭh
-52,46,1,milidaṭīkā,Milidaṭīkā,MilT
-53,47,1,padamañjarī,Padamañjarī,Padam
-54,48,1,padasādhanaṃ,Padasādhanaṃ,Padas
-55,49,1,saddabindu pakaraṇaṃ,Saddabindu pakaraṇaṃ,Saddb
-56,50,1,kaccāyana  dhātu mañjūsā,Kaccāyana dhātu mañjūsā,Dhātum
-57,51,1,samantakūṭavaṇṇanā,Samantakūṭavaṇṇanā,Samantak
-58,52,1,moggallāna vuttivivaraṇapañcikā.,Moggallāna vuttivivaraṇapañcikā,MoggP
-59,53,1,thupavaṃsa,Thupavaṃsa,Thūp
-60,54,1,dāṭhāvaṃsa,Dāṭhāvaṃsa,Dāṭh
-61,55,1,dhātupāṭha  vilāsiniyā,Dhātupāṭha vilāsiniyā,Dhātup
-62,56,1,dhātuvaṃsa,Dhātuvaṃsa,Dhātuv
-63,57,1,hatthavanagallavihāra  vaṃso,Hatthavanagallavihāra vaṃso,Hatth
-64,58,1,jinacaritaya,Jinacaritaya,Jinac
-65,59,1,jinavaṃsadīpaṃ,Jinavaṃsadīpaṃ,Jinav
-66,60,1,telakaṭāhagāthā,Telakaṭāhagāthā,Tel
-67,61,2,cūḷaganthavaṃsapāḷi,Cūḷaganthavaṃsapāḷi,Cgv
-68,62,2,sāsanavaṃsappadīpikā,Sāsanavaṃsappadīpikā,Sāsp
-69,63,2,mahāvaṃsapāḷi,Mahāvaṃsapāḷi,Mhv
-70,64,2,visuddhimagga,Visuddhimagga,Vism
-71,65,2,visuddhimagga,Visuddhimagga,Vism
-72,66,2,visuddhimagga-mahāṭīkā,Visuddhimagga-mahāṭīkā,VismT
-73,67,2,visuddhimagga-mahāṭīkā,Visuddhimagga-mahāṭīkā,VismT
-74,68,2,visuddhimagga nidānakathā,Visuddhimagga nidānakathā,VismNid
-75,69,3,paṭṭhānapāḷi,Paṭṭhānapāḷi,Paṭṭh
-76,70,3,paṭṭhānapāḷi,Paṭṭhānapāḷi,Paṭṭh
-77,71,3,paṭṭhānapāḷi,Paṭṭhānapāḷi,Paṭṭh
-78,72,3,paṭṭhānapāḷi,Paṭṭhānapāḷi,Paṭṭh
-79,73,3,dhammasaṅgaṇīpāḷi,Dhammasaṅgaṇīpāḷi,Dhs
-80,74,3,vibhaṅgapāḷi,Vibhaṅgapāḷi,Vibh
-81,75,3,dhātukathāpāḷi,Dhātukathāpāḷi,Dhātuk
-82,76,3,puggalapaññattipāḷi,Puggalapaññattipāḷi,Pugg
-83,77,3,kathāvatthupāḷi,Kathāvatthupāḷi,Kv
-84,78,3,yamakapāḷi,Yamakapāḷi,Yam
-85,79,3,yamakapāḷi,Yamakapāḷi,Yam
-86,80,3,yamakapāḷi,Yamakapāḷi,Yam
-87,81,3,paṭṭhānapāḷi,Paṭṭhānapāḷi,Paṭṭh
-88,82,3,aṅguttaranikāyapāḷi,Aṅguttaranikāyapāḷi,An V
-89,83,3,aṅguttaranikāyapāḷi,Aṅguttaranikāyapāḷi,An V
-90,84,3,aṅguttaranikāyapāḷi,Aṅguttaranikāyapāḷi,An I
-91,85,3,aṅguttaranikāyapāḷi,Aṅguttaranikāyapāḷi,An I
-92,86,3,aṅguttaranikāyapāḷi,Aṅguttaranikāyapāḷi,An I
-93,87,3,aṅguttaranikāyapāḷi,Aṅguttaranikāyapāḷi,An II
-94,88,3,aṅguttaranikāyapāḷi,Aṅguttaranikāyapāḷi,An III
-95,89,3,aṅguttaranikāyapāḷi,Aṅguttaranikāyapāḷi,An III
-96,90,3,aṅguttaranikāyapāḷi,Aṅguttaranikāyapāḷi,An IV
-97,91,3,aṅguttaranikāyapāḷi,Aṅguttaranikāyapāḷi,An IV
-98,92,3,aṅguttaranikāyapāḷi,Aṅguttaranikāyapāḷi,An IV
-99,93,3,dīghanikāyapāḷi,Dīghanikāyapāḷi,Dn I
-100,94,3,dīghanikāyapāḷi,Dīghanikāyapāḷi,Dn II
-101,95,3,dīghanikāyapāḷi,Dīghanikāyapāḷi,Dn III
-102,96,4,dhammasaṅgaṇī-aṭṭhakathā,Dhammasaṅgaṇī-aṭṭhakathā,DhsA
-103,97,4,vibhaṅga-aṭṭhakathā,Vibhaṅga-aṭṭhakathā,VibhA
-104,98,4,dhātukathā-aṭṭhakathā,Dhātukathā-aṭṭhakathā,DhātukA
-105,98,173,puggalapaññatti-aṭṭhakathā,Puggalapaññatti-aṭṭhakathā,PuggA
-106,98,474,kathāvatthu-aṭṭhakathā,Kathāvatthu-aṭṭhakathā,KvA
-107,98,1623,yamakappakaraṇa-aṭṭhakathā,Yamakappakaraṇa-aṭṭhakathā,YamA
-108,98,1880,paṭṭhānappakaraṇa-aṭṭhakathā,Paṭṭhānappakaraṇa-aṭṭhakathā,PaṭṭhA
-109,99,3,manorathapūraṇī,Manorathapūraṇī,AnA I
-110,100,3,manorathapūraṇī,Manorathapūraṇī,AnA II
-111,100,325,manorathapūraṇī,Manorathapūraṇī,AnA II
-112,100,997,manorathapūraṇī,Manorathapūraṇī,AnA III
-113,101,3,manorathapūraṇī,Manorathapūraṇī,AnA III
-114,101,503,manorathapūraṇī,Manorathapūraṇī,AnA III
-115,101,792,manorathapūraṇī,Manorathapūraṇī,AnA IV
-116,102,3,manorathapūraṇī,Manorathapūraṇī,AnA IV
-117,102,275,manorathapūraṇī,Manorathapūraṇī,AnA IV
-118,102,409,manorathapūraṇī,Manorathapūraṇī,AnA V
-119,102,706,manorathapūraṇī,Manorathapūraṇī,AnA V
-120,103,3,sumaṅgalavilāsinī,Sumaṅgalavilāsinī,DnA I
-121,104,3,sumaṅgalavilāsinī,Sumaṅgalavilāsinī,DnA II
-122,105,3,sumaṅgalavilāsinī,Sumaṅgalavilāsinī,DnA III
-123,106,3,therīgāthā-aṭṭhakathā,Therīgāthā-aṭṭhakathā,ThīA
-124,107,3,apadāna-aṭṭhakathā,Apadāna-aṭṭhakathā,ApA
-125,108,3,buddhavaṃsa-aṭṭhakathā,Buddhavaṃsa-aṭṭhakathā,BvA
-126,109,3,cariyāpiṭaka-aṭṭhakathā,Cariyāpiṭaka-aṭṭhakathā,CpA
-127,110,4,jātaka-aṭṭhakathā,Jātaka-aṭṭhakathā,JaA I
-128,111,3,jātaka-aṭṭhakathā,Jātaka-aṭṭhakathā,JaA II
-129,112,4,jātaka-aṭṭhakathā,Jātaka-aṭṭhakathā,JaA III
-130,113,4,jātaka-aṭṭhakathā,Jātaka-aṭṭhakathā,JaA IV
-131,113,5312,jātaka-aṭṭhakathā,Jātaka-aṭṭhakathā,JaA V
-132,114,1,jātaka-aṭṭhakathā,Jātaka-aṭṭhakathā,JaA V
-133,115,3,jātaka-aṭṭhakathā,Jātaka-aṭṭhakathā,JaA VI
-134,116,3,khuddakapāṭha-aṭṭhakathā,Khuddakapāṭha-aṭṭhakathā,KhpA
-135,117,3,jātaka-aṭṭhakathā,Jātaka-aṭṭhakathā,JaA VI
-136,118,3,mahāniddesa-aṭṭhakathā,Mahāniddesa-aṭṭhakathā,MndA I
-137,119,3,cūḷaniddesa-aṭṭhakathā,Cūḷaniddesa-aṭṭhakathā,CndA
-138,120,3,paṭisambhidāmagga-aṭṭhakathā,Paṭisambhidāmagga-aṭṭhakathā,PaṭisA I
-139,121,3,nettippakaraṇa-aṭṭhakathā,Nettippakaraṇa-aṭṭhakathā,NettA
-140,122,3,dhammapada-aṭṭhakathā,Dhammapada-aṭṭhakathā,DhpA I
-141,123,3,udāna-aṭṭhakathā,Udāna-aṭṭhakathā,UdA
-142,124,3,itivuttaka-aṭṭhakathā,Itivuttaka-aṭṭhakathā,ItA I
-143,125,3,suttanipāta-aṭṭhakathā,Suttanipāta-aṭṭhakathā,SnpA I
-144,126,3,vimānavatthu-aṭṭhakathā,Vimānavatthu-aṭṭhakathā,VvA
-145,127,3,petavatthu-aṭṭhakathā,Petavatthu-aṭṭhakathā,PvA
-146,128,3,theragāthā-aṭṭhakathā,Theragāthā-aṭṭhakathā,ThA I
-147,129,3,theragāthā-aṭṭhakathā,Theragāthā-aṭṭhakathā,ThA II
-148,130,3,papañcasūdanī,Papañcasūdanī,MnA I
-149,131,3,papañcasūdanī,Papañcasūdanī,MnA III
-150,132,3,papañcasūdanī,Papañcasūdanī,MnA IV
-151,133,3,sāratthappakāsinī,Sāratthappakāsinī,SnA I
-152,134,3,sāratthappakāsinī,Sāratthappakāsinī,SnA II
-153,135,3,sāratthappakāsinī,Sāratthappakāsinī,SnA II
-154,136,3,sāratthappakāsinī,Sāratthappakāsinī,SnA II
-155,137,3,sāratthappakāsinī,Sāratthappakāsinī,SnA III
-156,138,3,samantapāsādikā,Samantapāsādikā,VinA I
-157,139,3,samantapāsādikā,Samantapāsādikā,VinA IV
-158,140,3,samantapāsādikā,Samantapāsādikā,VinA V
-159,141,3,samantapāsādikā,Samantapāsādikā,VinA VI
-160,142,3,samantapāsādikā,Samantapāsādikā,VinA VII
-161,143,3,therāpadānapāḷi,Therāpadānapāḷi,Ap I
-162,144,3,therāpadānapāḷi,Therāpadānapāḷi,Ap II
-163,144,6534,therīapadānapāḷi,Therīapadānapāḷi,Ap II
-164,145,3,buddhavaṃsapāḷi,Buddhavaṃsapāḷi,Bv
-165,146,3,cariyāpiṭakapāḷi,Cariyāpiṭakapāḷi,Cp
-166,147,3,jātakapāḷi,Jātakapāḷi,Ja
-167,148,3,jātakapāḷi,Jātakapāḷi,Ja
-168,149,3,mahāniddesapāḷi,Mahāniddesapāḷi,Mnd I
-169,150,3,cūḷaniddesapāḷi,Cūḷaniddesapāḷi,Cnd
-170,151,3,paṭisambhidāmaggapāḷi,Paṭisambhidāmaggapāḷi,Paṭis I
-171,152,3,milindapañhapāḷi,Milindapañhapāḷi,Mil
-172,153,3,nettippakaraṇapāḷi,Nettippakaraṇapāḷi,Nett
-173,154,3,khuddakapāṭhapāḷi,Khuddakapāṭhapāḷi,Khp
-174,155,3,peṭakopadesapāḷi,Peṭakopadesapāḷi,Peṭ
-175,156,3,dhammapadapāḷi,Dhammapadapāḷi,Dhp
-176,157,3,udānapāḷi,Udānapāḷi,Ud
-177,158,3,itivuttakapāḷi,Itivuttakapāḷi,It
-178,159,3,suttanipātapāḷi,Suttanipātapāḷi,Snp
-179,160,3,vimānavatthupāḷi,Vimānavatthupāḷi,Vv
-180,161,3,petavatthupāḷi,Petavatthupāḷi,Pv
-181,162,3,theragāthāpāḷi,Theragāthāpāḷi,Th
-182,163,3,therīgāthāpāḷi,Therīgāthāpāḷi,Thī
-183,164,3,majjhimanikāyapāḷi,Majjhimanikāyapāḷi,Mn I
-184,165,3,majjhimanikāyapāḷi,Majjhimanikāyapāḷi,Mn I
-185,166,3,majjhimanikāyapāḷi,Majjhimanikāyapāḷi,Mn II
-186,167,3,saṃyuttanikāyapāḷi,Saṃyuttanikāyapāḷi,Sn I
-187,168,3,saṃyuttanikāyapāḷi,Saṃyuttanikāyapāḷi,Sn II
-188,169,3,saṃyuttanikāyapāḷi,Saṃyuttanikāyapāḷi,Sn III
-189,170,3,saṃyuttanikāyapāḷi,Saṃyuttanikāyapāḷi,Sn IV
-190,171,3,saṃyuttanikāyapāḷi,Saṃyuttanikāyapāḷi,Sn V
-191,172,3,mūlaṭīkā,Mūlaṭīkā,DhsT
-192,173,3,mūlaṭīkā,Mūlaṭīkā,VibhT
-193,173,1155,anuṭīkā,Anuṭīkā,VibhAnuT
-194,174,4,mūlaṭīkā,Mūlaṭīkā,DhātukT
-195,174,100,mūlaṭīkā,Mūlaṭīkā,PuggT
-196,174,201,mūlaṭīkā,Mūlaṭīkā,KvT
-197,174,865,mūlaṭīkā,Mūlaṭīkā,YamT
-198,174,1059,mūlaṭīkā,Mūlaṭīkā,PaṭṭhT
-199,175,3,anuṭīkā,Anuṭīkā,DhsAnuT
-200,176,4,anuṭīkā,Anuṭīkā,DhātukAnuT
-201,176,117,anuṭīkā,Anuṭīkā,PuggAnuT
-202,176,213,anuṭīkā,Anuṭīkā,KvAnuT
-203,176,917,anuṭīkā,Anuṭīkā,YamAnuT
-204,176,1139,anuṭīkā,Anuṭīkā,PaṭṭhAnuT
-205,177,2,abhidhammāvatāro,Abhidhammāvatāro,Abhāv
-206,177,4805,nāmarūpaparicchedo,Nāmarūpaparicchedo,Nāmarp
-207,177,10627,paramatthavinicchayo,Paramatthavinicchayo,Paramv
-208,177,14272,saccasaṅkhepo,Saccasaṅkhepo,Sacc
-209,178,2,abhidhammatthasaṅgaho,Abhidhammatthasaṅgaho,Abhs
-210,178,875,abhidhammatthavibhāvinīṭīkā,Abhidhammatthavibhāvinīṭīkā,AbhsT
-211,179,2,abhidhammāvatāra-purāṇaṭīkā,Abhidhammāvatāra-purāṇaṭīkā,AbhāvPT
-212,179,872,abhidhammāvatāra-abhinavaṭīkā,Abhidhammāvatāra-abhinavaṭīkā,AbhāvAbhT
-213,180,2,abhidhammamātikāpāḷi,Abhidhammamātikāpāḷi,AbhMāt
-214,180,1221,mohavicchedanī,Mohavicchedanī,Moh
-215,181,3,aṅguttaranikāya-ṭīkā,Aṅguttaranikāya-ṭīkā,AnT
-216,182,3,aṅguttaranikāya-ṭīkā,Aṅguttaranikāya-ṭīkā,AnT
-217,182,324,aṅguttaranikāya-ṭīkā,Aṅguttaranikāya-ṭīkā,AnT
-218,182,1023,aṅguttaranikāya-ṭīkā,Aṅguttaranikāya-ṭīkā,AnT
-219,183,3,aṅguttaranikāya-ṭīkā,Aṅguttaranikāya-ṭīkā,AnT
-220,183,470,aṅguttaranikāya-ṭīkā,Aṅguttaranikāya-ṭīkā,AnT
-221,183,793,aṅguttaranikāya-ṭīkā,Aṅguttaranikāya-ṭīkā,AnT
-222,184,3,aṅguttaranikāya-ṭīkā,Aṅguttaranikāya-ṭīkā,AnT
-223,184,278,navakanipāta-ṭīkā,Navakanipāta-ṭīkā,AnT
-224,184,466,aṅguttaranikāya-ṭīkā,Aṅguttaranikāya-ṭīkā,AnT
-225,184,776,aṅguttaranikāya-ṭīkā,Aṅguttaranikāya-ṭīkā,AnT
-226,185,3,līnatthappakāsanā,Līnatthappakāsanā,DnT I
-227,186,3,līnatthappakāsanā,Līnatthappakāsanā,DnT II
-228,187,3,līnatthappakāsanā,Līnatthappakāsanā,DnT III
-229,188,3,sādhuvilāsinī,Sādhuvilāsinī,DnAbhT
-230,189,3,sādhuvilāsinī,Sādhuvilāsinī,DnAbhT
-231,190,3,nettippakaraṇa-ṭīkā,Nettippakaraṇa-ṭīkā,NettT
-232,191,3,nettivibhāvinī,Nettivibhāvinī,NettVibh
-233,192,3,līnatthappakāsanā,Līnatthappakāsanā,MnT
-234,193,3,līnatthappakāsanā,Līnatthappakāsanā,MnT
-235,194,3,līnatthappakāsanā,Līnatthappakāsanā,MnT
-236,195,3,līnatthappakāsanā,Līnatthappakāsanā,SnT
-237,196,3,līnatthappakāsanā,Līnatthappakāsanā,SnT
-238,197,3,līnatthappakāsanā,Līnatthappakāsanā,SnT
-239,198,3,līnatthappakāsanā,Līnatthappakāsanā,SnT
-240,199,3,līnatthappakāsanā,Līnatthappakāsanā,SnT
-241,200,2,vinayavinicchayo,Vinayavinicchayo,VinVn
-242,200,10176,uttaravinicchayo,Uttaravinicchayo,UttVn
-243,201,2,vinayavinicchaya-ṭīkā,Vinayavinicchaya-ṭīkā,VinVnT
-244,201,4270,uttaravinicchaya-ṭīkā,Uttaravinicchaya-ṭīkā,UttVnT
-245,202,3,pācityādiyojanā,Pācityādiyojanā,PācYoj
-246,203,3,khuddasikkhā,Khuddasikkhā,Khuddas
-247,203,1620,khuddasikkhā,Khuddasikkhā,KhuddasPT
-248,203,2361,khuddasikkhā,Khuddasikkhā,KhuddasAbhT
-249,203,3100,mūlasikkhā,Mūlasikkhā,Mūlas
-250,203,3481,mūlasikkhā,Mūlasikkhā,MūlasT
-251,204,3,sāratthadīpanī-ṭīkā,Sāratthadīpanī-ṭīkā,VinT
-252,205,3,sāratthadīpanī-ṭīkā,Sāratthadīpanī-ṭīkā,VinT
-253,206,3,sāratthadīpanī-ṭīkā,Sāratthadīpanī-ṭīkā,VinT
-254,206,717,sāratthadīpanī-ṭīkā,Sāratthadīpanī-ṭīkā,VinT
-255,206,1753,sāratthadīpanī-ṭīkā,Sāratthadīpanī-ṭīkā,VinT
-256,206,2154,sāratthadīpanī-ṭīkā,Sāratthadīpanī-ṭīkā,VinT
-257,207,3,pātimokkhapāḷi,Pātimokkhapāḷi,Pātim
-258,207,524,pātimokkhapāḷi,Pātimokkhapāḷi,Pātim
-259,207,1215,kaṅkhāvitaraṇī,Kaṅkhāvitaraṇī,Kkh
-260,208,3,vinayasaṅgaha-aṭṭhakathā,Vinayasaṅgaha-aṭṭhakathā,VinSgh
-261,209,3,vajirabuddhi-ṭīkā,Vajirabuddhi-ṭīkā,VjbT
-262,209,166,vajirabuddhi-ṭīkā,Vajirabuddhi-ṭīkā,VjbT
-263,209,992,vajirabuddhi-ṭīkā,Vajirabuddhi-ṭīkā,VjbT
-264,209,1708,vajirabuddhi-ṭīkā,Vajirabuddhi-ṭīkā,VjbT
-265,209,2217,vajirabuddhi-ṭīkā,Vajirabuddhi-ṭīkā,VjbT
-266,209,2428,vajirabuddhi-ṭīkā,Vajirabuddhi-ṭīkā,VjbT
-267,210,3,vimativinodanī-ṭīkā,Vimativinodanī-ṭīkā,VmvT
-268,210,1658,vimativinodanī-ṭīkā,Vimativinodanī-ṭīkā,VmvT
-269,210,1779,vimativinodanī-ṭīkā,Vimativinodanī-ṭīkā,VmvT
-270,210,2431,vimativinodanī-ṭīkā,Vimativinodanī-ṭīkā,VmvT
-271,210,2792,vimativinodanī-ṭīkā,Vimativinodanī-ṭīkā,VmvT
-272,211,3,vinayālaṅkāra-ṭīkā,Vinayālaṅkāra-ṭīkā,Vinālk
-273,212,2,kaṅkhāvitaraṇī,Kaṅkhāvitaraṇī,KkhPT
-274,212,671,kaṅkhāvitaraṇī,Kaṅkhāvitaraṇī,KkhAbhT
-275,213,3,vinayapiṭaka,Vinayapiṭaka,Vin III
-276,214,3,vinayapiṭaka,Vinayapiṭaka,Vin IV
-277,215,3,vinayapiṭaka,Vinayapiṭaka,Vin I
-278,216,3,vinayapiṭaka,Vinayapiṭaka,Vin II
-279,217,3,vinayapiṭaka,Vinayapiṭaka,Vin V
-280,139,925,samantapāsādikā,Samantapāsādikā,VinA IV
-281,214,2162,vinayapiṭaka,Vinayapiṭaka,Vin IV
+1,1,2,namakkārapāḷi,namakkāra,Nam
+2,1,159,namakkāraṭīkā,namakkāra-ṭī,NamT
+3,2,2,mahāpaṇāmapāṭha,mahāpaṇāmapāṭha,Mpp
+4,2,428,tigumbacetiya thomanā,tigumbacetiya thomanā,Tgc
+5,2,479,vāsamālinīkya,vāsamālinīkya,Vāsam
+6,3,2,lakkhaṇāto,lakkhaṇāto,Lakkh
+7,4,2,suttavandanā,suttavandanā,Sutv
+8,5,2,jinālaṅkāra,jinālaṅkāra,Jināl
+9,6,2,kamalāñjali,kamalāñjali,Kamal
+10,7,2,pajjamadhu,pajjamadhu,Pjm
+11,8,2,buddhaguṇagāthāvalī,buddhaguṇagāthāvalī,Bgg
+12,9,2,abhidhānappadīpikāṭīkā,abhidhānappadīpikā-ṭī,AbhpT
+13,10,2,subodhālaṅkāro,subodhālaṅkāro,Subodh
+14,11,2,subodhālaṅkāraṭīkā,subodhālaṅkāra-ṭī,SubodhT
+15,12,2,bālāvatāra,bālāvatāra,Bālāv
+16,13,2,moggallānasuttapāṭho,moggallānasuttapāṭho,Mogg
+17,13,1105,moggallānabyākaraṇaṃ,moggallānabyākaraṇaṃ,Mogg
+18,14,2,kaccāyanabyākaraṇaṃ,kaccāyanabyākaraṇaṃ,Kacc
+19,14,715,mahākaccāyanasaddāpāṭha,mahākaccāyanasaddāpāṭha,Kacc
+20,15,2,saddanītippakaraṇaṃ (padamālā),saddanītippakaraṇaṃ (padamālā),Sadd
+21,16,2,saddanītippakaraṇaṃ (dhātumālā),saddanītippakaraṇaṃ (dhātumālā),Sadd
+22,17,2,padarūpasiddhi,padarūpasiddhi,Rūp
+23,18,2,moggallāna-pañcikā-ṭīkā,moggallāna-pañcikā-ṭī,MoggPT
+24,19,2,payogasiddhipāḷi,payogasiddhi,Payog
+25,20,2,vuttodayaṃ,vuttodayaṃ,Vutt
+26,21,2,abhidhānappadīpikā,abhidhānappadīpikā,Abhp
+27,22,2,niruttidīpanīpāṭha,niruttidīpanīpāṭha,Nirutt
+28,23,2,paramatthadīpanī,paramatthadīpanī,Pmd
+29,24,2,anudīpanīpāṭha,anudīpanīpāṭha,Anudīp
+30,25,2,paṭṭhānuddesa dīpanīpāṭha,paṭṭhānuddesa dīpanīpāṭha,Paṭṭhud
+31,26,2,caturārakkhadīpanī,caturārakkhadīpanī,Catur
+32,27,2,kavidappaṇanīti,kavidappaṇanīti,Kavid
+33,28,2,nītimañjarī,nītimañjarī,Nītim
+34,29,2,dhammanīti,dhammanīti,Dhn
+35,30,2,mahārahanīti,mahārahanīti,Mhn
+36,31,2,lokanīti,lokanīti,Ln
+37,32,2,suttantanīti,suttantanīti,Sutn
+38,32,134,vasalasutta,vasalasutta,Sutn
+39,33,2,sūrassatīnīti,sūrassatīnīti 1,Sūrn
+40,34,2,cāṇakyanītipāḷi,cāṇakyanīti,Cāṇ
+41,35,2,naradakkhadīpanī,naradakkhadīpanī,Narad
+42,36,2,rasavāhinī,rasavāhinī,Ras
+43,37,2,sīmavisodhanī,sīmavisodhanī,Sīmav
+44,38,2,vessantarāgīti,vessantarāgīti,Vessag
+45,39,3,(saṅgayana-puccha vissajjanā) dīghanikāye,(saṅgayana-puccha vissajjanā) dīghanikāye,SgyDn
+46,40,3,(saṅgayana-puccha vissajjanā) majjhimanikāya,(saṅgayana-puccha vissajjanā) majjhimanikāya 1,SgyMn
+47,41,3,(saṅgayana-puccha vissajjanā) saṃyuttanikāye,(saṅgayana-puccha vissajjanā) saṃyuttanikāye 1,SgySn
+48,42,3,(saṅgayana-puccha vissajjanā) aṅguttaranikāye,(saṅgayana-puccha vissajjanā) aṅguttaranikāye 1,SgyAn
+49,43,2,(saṅgayana-puccha vissajjanā) vinayapiṭaka,(saṅgayana-puccha vissajjanā) vinayapiṭaka 1,SgyVin
+50,44,2,(saṅgayana-puccha vissajjanā) abhidhammapiṭaka,(saṅgayana-puccha vissajjanā) abhidhammapiṭaka,SgyAbh
+51,45,2,(saṅgayana-puccha vissajjanā) aṭṭhakathā,(saṅgayana-puccha vissajjanā) aṭṭhakathā 1,SgyAṭṭh
+52,46,1,milidaṭīkā,milida-ṭī,MilT
+53,47,1,padamañjarī,padamañjarī,Padam
+54,48,1,padasādhanaṃ,padasādhanaṃ,Padas
+55,49,1,saddabindu pakaraṇaṃ,saddabindu pakaraṇaṃ,Saddb
+56,50,1,kaccāyana  dhātu mañjūsā,kaccāyana dhātu mañjūsā,Dhātum
+57,51,1,samantakūṭavaṇṇanā,samantakūṭavaṇṇanā,Samantak
+58,52,1,moggallāna vuttivivaraṇapañcikā.,moggallāna vuttivivaraṇapañcikā,MoggP
+59,53,1,thupavaṃsa,thupavaṃsa,Thūp
+60,54,1,dāṭhāvaṃsa,dāṭhāvaṃsa,Dāṭh
+61,55,1,dhātupāṭha  vilāsiniyā,dhātupāṭha vilāsiniyā,Dhātup
+62,56,1,dhātuvaṃsa,dhātuvaṃsa,Dhātuv
+63,57,1,hatthavanagallavihāra  vaṃso,hatthavanagallavihāra vaṃso,Hatth
+64,58,1,jinacaritaya,jinacaritaya,Jinac
+65,59,1,jinavaṃsadīpaṃ,jinavaṃsadīpaṃ,Jinav
+66,60,1,telakaṭāhagāthā,telakaṭāhagāthā,Tel
+67,61,2,cūḷaganthavaṃsapāḷi,cūḷaganthavaṃsa,Cgv
+68,62,2,sāsanavaṃsappadīpikā,sāsanavaṃsappadīpikā,Sāsp
+69,63,2,mahāvaṃsapāḷi,mahāvaṃsa,Mhv
+70,64,2,visuddhimagga,visuddhi 1,Vism
+71,65,2,visuddhimagga,visuddhi 2,Vism
+72,66,2,visuddhimagga-mahāṭīkā,mahāṭī 1,VismT
+73,67,2,visuddhimagga-mahāṭīkā,mahāṭī 2,VismT
+74,68,2,visuddhimagga nidānakathā,visuddhimagga nidānakathā,VismNid
+75,69,3,paṭṭhānapāḷi,paṭṭhāna 2,Paṭṭh
+76,70,3,paṭṭhānapāḷi,paṭṭhāna 3,Paṭṭh
+77,71,3,paṭṭhānapāḷi,paṭṭhāna 4,Paṭṭh
+78,72,3,paṭṭhānapāḷi,paṭṭhāna 5,Paṭṭh
+79,73,3,dhammasaṅgaṇīpāḷi,abhi 1,Dhs
+80,74,3,vibhaṅgapāḷi,abhi 2,Vibh
+81,75,3,dhātukathāpāḷi,abhi 3,Dhātuk
+82,76,3,puggalapaññattipāḷi,abhi 4,Pugg
+83,77,3,kathāvatthupāḷi,abhi 5,Kv
+84,78,3,yamakapāḷi,abhi 6,Yam
+85,79,3,yamakapāḷi,abhi 7,Yam
+86,80,3,yamakapāḷi,abhi 8,Yam
+87,81,3,paṭṭhānapāḷi,paṭṭhāna 1,Paṭṭh
+88,82,3,aṅguttaranikāyapāḷi,aṃ 3,An V
+89,83,3,aṅguttaranikāyapāḷi,aṃ 3,An V
+90,84,3,aṅguttaranikāyapāḷi,aṃ 1,An I
+91,85,3,aṅguttaranikāyapāḷi,aṃ 1,An I
+92,86,3,aṅguttaranikāyapāḷi,aṃ 1,An I
+93,87,3,aṅguttaranikāyapāḷi,aṃ 1,An II
+94,88,3,aṅguttaranikāyapāḷi,aṃ 2,An III
+95,89,3,aṅguttaranikāyapāḷi,aṃ 2,An III
+96,90,3,aṅguttaranikāyapāḷi,aṃ 2,An IV
+97,91,3,aṅguttaranikāyapāḷi,aṃ 3,An IV
+98,92,3,aṅguttaranikāyapāḷi,aṃ 3,An IV
+99,93,3,dīghanikāyapāḷi,dī 1,Dn I
+100,94,3,dīghanikāyapāḷi,dī 2,Dn II
+101,95,3,dīghanikāyapāḷi,dī 3,Dn III
+102,96,4,dhammasaṅgaṇī-aṭṭhakathā,abhi-ṭṭha,DhsA
+103,97,4,vibhaṅga-aṭṭhakathā,abhi-ṭṭha,VibhA
+104,98,4,dhātukathā-aṭṭhakathā,abhi-ṭṭha,DhātukA
+105,98,173,puggalapaññatti-aṭṭhakathā,abhi-ṭṭha,PuggA
+106,98,474,kathāvatthu-aṭṭhakathā,abhi-ṭṭha,KvA
+107,98,1623,yamakappakaraṇa-aṭṭhakathā,abhi-ṭṭha,YamA
+108,98,1880,paṭṭhānappakaraṇa-aṭṭhakathā,abhi-ṭṭha,PaṭṭhA
+109,99,3,manorathapūraṇī,aṃ-ṭṭha 1,AnA I
+110,100,3,manorathapūraṇī,aṃ-ṭṭha 2,AnA II
+111,100,325,manorathapūraṇī,aṃ-ṭṭha 2,AnA II
+112,100,997,manorathapūraṇī,aṃ-ṭṭha 2,AnA III
+113,101,3,manorathapūraṇī,aṃ-ṭṭha 3,AnA III
+114,101,503,manorathapūraṇī,aṃ-ṭṭha 3,AnA III
+115,101,792,manorathapūraṇī,aṃ-ṭṭha 3,AnA IV
+116,102,3,manorathapūraṇī,aṃ-ṭṭha 3,AnA IV
+117,102,275,manorathapūraṇī,aṃ-ṭṭha 3,AnA IV
+118,102,409,manorathapūraṇī,aṃ-ṭṭha 3,AnA V
+119,102,706,manorathapūraṇī,aṃ-ṭṭha 3,AnA V
+120,103,3,sumaṅgalavilāsinī,dī-ṭṭha 1,DnA I
+121,104,3,sumaṅgalavilāsinī,dī-ṭṭha 2,DnA II
+122,105,3,sumaṅgalavilāsinī,dī-ṭṭha 3,DnA III
+123,106,3,therīgāthā-aṭṭhakathā,therīgāthā-ṭṭha,ThīA
+124,107,3,apadāna-aṭṭhakathā,apadāna-ṭṭha 1,ApA
+125,108,3,buddhavaṃsa-aṭṭhakathā,buddhavaṃsa-ṭṭha,BvA
+126,109,3,cariyāpiṭaka-aṭṭhakathā,cariyāpiṭaka-ṭṭha,CpA
+127,110,4,jātaka-aṭṭhakathā,jātaka-ṭṭha 1,JaA I
+128,111,3,jātaka-aṭṭhakathā,jātaka-ṭṭha 2,JaA II
+129,112,4,jātaka-aṭṭhakathā,jātaka-ṭṭha 3,JaA III
+130,113,4,jātaka-aṭṭhakathā,jātaka-ṭṭha 4,JaA IV
+131,113,5312,jātaka-aṭṭhakathā,jātaka-ṭṭha 5,JaA V
+132,114,1,jātaka-aṭṭhakathā,jātaka-ṭṭha 5,JaA V
+133,115,3,jātaka-aṭṭhakathā,jātaka-ṭṭha 6,JaA VI
+134,116,3,khuddakapāṭha-aṭṭhakathā,khuddakapāṭha-ṭṭha,KhpA
+135,117,3,jātaka-aṭṭhakathā,jātaka-ṭṭha 7,JaA VI
+136,118,3,mahāniddesa-aṭṭhakathā,mahāni-ṭṭha,MndA I
+137,119,3,cūḷaniddesa-aṭṭhakathā,cūḷani-ṭṭha,CndA
+138,120,3,paṭisambhidāmagga-aṭṭhakathā,paṭisaṃ-ṭṭha 1,PaṭisA I
+139,121,3,nettippakaraṇa-aṭṭhakathā,netti-ṭṭha,NettA
+140,122,3,dhammapada-aṭṭhakathā,dhammapada-ṭṭha 1,DhpA I
+141,123,3,udāna-aṭṭhakathā,udāna-ṭṭha,UdA
+142,124,3,itivuttaka-aṭṭhakathā,itivuttaka-ṭṭha,ItA I
+143,125,3,suttanipāta-aṭṭhakathā,suttanipāta-ṭṭha 1,SnpA I
+144,126,3,vimānavatthu-aṭṭhakathā,vimānavatthu-ṭṭha,VvA
+145,127,3,petavatthu-aṭṭhakathā,petavatthu-ṭṭha,PvA
+146,128,3,theragāthā-aṭṭhakathā,theragāthā-ṭṭha 1,ThA I
+147,129,3,theragāthā-aṭṭhakathā,theragāthā-ṭṭha 2,ThA II
+148,130,3,papañcasūdanī,ma-ṭṭha 1,MnA I
+149,131,3,papañcasūdanī,ma-ṭṭha 3,MnA III
+150,132,3,papañcasūdanī,ma-ṭṭha 4,MnA IV
+151,133,3,sāratthappakāsinī,saṃ-ṭṭha 1,SnA I
+152,134,3,sāratthappakāsinī,saṃ-ṭṭha 2,SnA II
+153,135,3,sāratthappakāsinī,saṃ-ṭṭha 2,SnA II
+154,136,3,sāratthappakāsinī,saṃ-ṭṭha 3,SnA II
+155,137,3,sāratthappakāsinī,saṃ-ṭṭha 3,SnA III
+156,138,3,samantapāsādikā,vi-ṭṭha 1,VinA I
+157,139,3,samantapāsādikā,vi-ṭṭha,VinA IV
+158,140,3,samantapāsādikā,vi-ṭṭha,VinA V
+159,141,3,samantapāsādikā,vi-ṭṭha,VinA VI
+160,142,3,samantapāsādikā,vi-ṭṭha,VinA VII
+161,143,3,therāpadānapāḷi,apadān 1,Ap I
+162,144,3,therāpadānapāḷi,apadān 2,Ap II
+163,144,6534,therīapadānapāḷi,apadān 2,Ap II
+164,145,3,buddhavaṃsapāḷi,buddhavaṃsa 2,Bv
+165,146,3,cariyāpiṭakapāḷi,cariyāpiṭaka 2,Cp
+166,147,3,jātakapāḷi,jātaka 2,Ja
+167,148,3,jātakapāḷi,jātaka 1,Ja
+168,149,3,mahāniddesapāḷi,mahāni,Mnd I
+169,150,3,cūḷaniddesapāḷi,cūḷani,Cnd
+170,151,3,paṭisambhidāmaggapāḷi,paṭisaṃ,Paṭis I
+171,152,3,milindapañhapāḷi,milinda,Mil
+172,153,3,nettippakaraṇapāḷi,nettippakaraṇa,Nett
+173,154,3,khuddakapāṭhapāḷi,khuddakapāṭha,Khp
+174,155,3,peṭakopadesapāḷi,peṭakopadesa,Peṭ
+175,156,3,dhammapadapāḷi,dhammapada,Dhp
+176,157,3,udānapāḷi,udāna,Ud
+177,158,3,itivuttakapāḷi,itivuttaka,It
+178,159,3,suttanipātapāḷi,suttanipāta,Snp
+179,160,3,vimānavatthupāḷi,vimānavatthu,Vv
+180,161,3,petavatthupāḷi,petavatthu,Pv
+181,162,3,theragāthāpāḷi,theragāthā,Th
+182,163,3,therīgāthāpāḷi,therīgāthā,Thī
+183,164,3,majjhimanikāyapāḷi,ma 1,Mn I
+184,165,3,majjhimanikāyapāḷi,ma 2,Mn I
+185,166,3,majjhimanikāyapāḷi,ma 3,Mn II
+186,167,3,saṃyuttanikāyapāḷi,saṃ 1,Sn I
+187,168,3,saṃyuttanikāyapāḷi,saṃ 1,Sn II
+188,169,3,saṃyuttanikāyapāḷi,saṃ 2,Sn III
+189,170,3,saṃyuttanikāyapāḷi,saṃ 2,Sn IV
+190,171,3,saṃyuttanikāyapāḷi,saṃ 3,Sn V
+191,172,3,mūlaṭīkā,mūlaṭī,DhsT
+192,173,3,mūlaṭīkā,mūlaṭī,VibhT
+193,173,1155,anuṭīkā,anuṭī,VibhAnuT
+194,174,4,mūlaṭīkā,mūlaṭī,DhātukT
+195,174,100,mūlaṭīkā,mūlaṭī,PuggT
+196,174,201,mūlaṭīkā,mūlaṭī,KvT
+197,174,865,mūlaṭīkā,mūlaṭī,YamT
+198,174,1059,mūlaṭīkā,mūlaṭī,PaṭṭhT
+199,175,3,anuṭīkā,anuṭī,DhsAnuT
+200,176,4,anuṭīkā,anuṭī,DhātukAnuT
+201,176,117,anuṭīkā,anuṭī,PuggAnuT
+202,176,213,anuṭīkā,anuṭī,KvAnuT
+203,176,917,anuṭīkā,anuṭī,YamAnuT
+204,176,1139,anuṭīkā,anuṭī,PaṭṭhAnuT
+205,177,2,abhidhammāvatāro,abhidhammāvatāro,Abhāv
+206,177,4805,nāmarūpaparicchedo,nāmarūpaparicchedo,Nāmarp
+207,177,10627,paramatthavinicchayo,paramatthavinicchayo,Paramv
+208,177,14272,saccasaṅkhepo,saccasaṅkhepo,Sacc
+209,178,2,abhidhammatthasaṅgaho,abhidhammatthasaṅgaho,Abhs
+210,178,875,abhidhammatthavibhāvinīṭīkā,abhidhammatthavibhāvinī-ṭī,AbhsT
+211,179,2,abhidhammāvatāra-purāṇaṭīkā,abhidhammāvatāra-purāṇa-ṭī,AbhāvPT
+212,179,872,abhidhammāvatāra-abhinavaṭīkā,abhidhammāvatāra-abhinava-ṭī 1,AbhāvAbhT
+213,180,2,abhidhammamātikāpāḷi,abhidhammamātikā,AbhMāt
+214,180,1221,mohavicchedanī,mohavicchedanī,Moh
+215,181,3,aṅguttaranikāya-ṭīkā,aṃ-ṭī 1,AnT
+216,182,3,aṅguttaranikāya-ṭīkā,aṃ-ṭī 2,AnT
+217,182,324,aṅguttaranikāya-ṭīkā,aṃ-ṭī 2,AnT
+218,182,1023,aṅguttaranikāya-ṭīkā,aṃ-ṭī 2,AnT
+219,183,3,aṅguttaranikāya-ṭīkā,aṃ-ṭī 3,AnT
+220,183,470,aṅguttaranikāya-ṭīkā,aṃ-ṭī 3,AnT
+221,183,793,aṅguttaranikāya-ṭīkā,aṃ-ṭī 3,AnT
+222,184,3,aṅguttaranikāya-ṭīkā,aṃ-ṭī 3,AnT
+223,184,278,navakanipāta-ṭīkā,aṃ-ṭī 3,AnT
+224,184,466,aṅguttaranikāya-ṭīkā,aṃ-ṭī 3,AnT
+225,184,776,aṅguttaranikāya-ṭīkā,aṃ-ṭī 3,AnT
+226,185,3,līnatthappakāsanā,dī-ṭī 1,DnT I
+227,186,3,līnatthappakāsanā,dī-ṭī 2,DnT II
+228,187,3,līnatthappakāsanā,dī-ṭī 3,DnT III
+229,188,3,sādhuvilāsinī,dī-abhi-ṭī 1,DnAbhT
+230,189,3,sādhuvilāsinī,dī-abhi-ṭī 2,DnAbhT
+231,190,3,nettippakaraṇa-ṭīkā,nett-ṭī,NettT
+232,191,3,nettivibhāvinī,nett-vi,NettVibh
+233,192,3,līnatthappakāsanā,ma-ṭī 1,MnT
+234,193,3,līnatthappakāsanā,ma-ṭī 2,MnT
+235,194,3,līnatthappakāsanā,ma-ṭī 2,MnT
+236,195,3,līnatthappakāsanā,saṃ-ṭī 1,SnT
+237,196,3,līnatthappakāsanā,saṃ-ṭī 2,SnT
+238,197,3,līnatthappakāsanā,saṃ-ṭī 2,SnT
+239,198,3,līnatthappakāsanā,saṃ-ṭī 2,SnT
+240,199,3,līnatthappakāsanā,saṃ-ṭī 2,SnT
+241,200,2,vinayavinicchayo,vi.vi.,VinVn
+242,200,10176,uttaravinicchayo,ut.vi.,UttVn
+243,201,2,vinayavinicchaya-ṭīkā,vi.vi.-ṭī,VinVnT
+244,201,4270,uttaravinicchaya-ṭīkā,ut.vi.-ṭī,UttVnT
+245,202,3,pācityādiyojanā,pāci.yo.,PācYoj
+246,203,3,khuddasikkhā,khudda,Khuddas
+247,203,1620,khuddasikkhā,khudda pu ṭī,KhuddasPT
+248,203,2361,khuddasikkhā,khudda abh ṭī,KhuddasAbhT
+249,203,3100,mūlasikkhā,mūlasikkhā,Mūlas
+250,203,3481,mūlasikkhā,mūlasikkhā ṭī,MūlasT
+251,204,3,sāratthadīpanī-ṭīkā,sārattha 1,VinT
+252,205,3,sāratthadīpanī-ṭīkā,sārattha 2,VinT
+253,206,3,sāratthadīpanī-ṭīkā,sārattha 3,VinT
+254,206,717,sāratthadīpanī-ṭīkā,sārattha 3,VinT
+255,206,1753,sāratthadīpanī-ṭīkā,sārattha 3,VinT
+256,206,2154,sāratthadīpanī-ṭīkā,sārattha 3,VinT
+257,207,3,pātimokkhapāḷi,pātimokkha,Pātim
+258,207,524,pātimokkhapāḷi,pātimokkha,Pātim
+259,207,1215,kaṅkhāvitaraṇī,kaṅkhāvitaraṇī,Kkh
+260,208,3,vinayasaṅgaha-aṭṭhakathā,vinayasaṅgaha-ṭṭha,VinSgh
+261,209,3,vajirabuddhi-ṭīkā,vajira-ṭī,VjbT
+262,209,166,vajirabuddhi-ṭīkā,vajira-ṭī,VjbT
+263,209,992,vajirabuddhi-ṭīkā,vajira-ṭī,VjbT
+264,209,1708,vajirabuddhi-ṭīkā,vajira-ṭī,VjbT
+265,209,2217,vajirabuddhi-ṭīkā,vajira-ṭī,VjbT
+266,209,2428,vajirabuddhi-ṭīkā,vajirab-ṭī,VjbT
+267,210,3,vimativinodanī-ṭīkā,vimati 1,VmvT
+268,210,1658,vimativinodanī-ṭīkā,vimati 2,VmvT
+269,210,1779,vimativinodanī-ṭīkā,vimati 2,VmvT
+270,210,2431,vimativinodanī-ṭīkā,vimati 2,VmvT
+271,210,2792,vimativinodanī-ṭīkā,vimati 2,VmvT
+272,211,3,vinayālaṅkāra-ṭīkā,vi.laṅ.-ṭī 1,Vinālk
+273,212,2,kaṅkhāvitaraṇī,kaṅkhā,KkhPT
+274,212,671,kaṅkhāvitaraṇī,kaṅkhā,KkhAbhT
+275,213,3,vinayapiṭaka,vi 1,Vin III
+276,214,3,vinayapiṭaka,vi 1,Vin IV
+277,215,3,vinayapiṭaka,vi 2,Vin I
+278,216,3,vinayapiṭaka,vi 2,Vin II
+279,217,3,vinayapiṭaka,vi 3,Vin V
+280,139,925,samantapāsādikā,vi-ṭṭha,VinA IV
+281,214,2162,vinayapiṭaka,vi 1,Vin IV
